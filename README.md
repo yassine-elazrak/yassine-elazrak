@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 I'm Ali Zaynoune
+### Hi there 👋 I'm Yassine Elazrak
 
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
 - 🌱 I’m currently learning deep reinforcement learning
