@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 <!-- [![Twitter: imthepk](https://img.shields.io/twitter/follow/alizaynoune?style=social)](https://twitter.com/alizaynoune) -->
 
 <!-- [![GitHub Alizaynoune](https://img.shields.io/github/followers/alizaynoune?label=follow&style=social)](https://github.com/alizaynoune) -->
-<!-- [![Linkedin: imthepk](https://img.shields.io/badge/-alizaynoune-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alizaynoune/)](https://www.linkedin.com/in/ali-zaynoune-168905161/) -->
+[![Linkedin: imthepk](https://img.shields.io/badge/-yassineazrak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alizaynoune/)](https://www.linkedin.com/in/yelazrak/)
