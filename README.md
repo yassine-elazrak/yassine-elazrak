@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **yassineazrak/yassineazrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +29,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassineazrak&layout=compact&theme=dark)](https://github.com/yassineazrak)
 
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/yassineazrak?style=social)](https://twitter.com/yassine63100329)
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/yassineazrak?style=social)](https://twitter.com/yass_elazrak)
 
 [![GitHub yasssine elazrak](https://img.shields.io/github/followers/yassineazrak?label=follow&style=social)](https://github.com/yassineazrak)
 [![Linkedin: imthepk](https://img.shields.io/badge/-yassineazrak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alizaynoune/)](https://www.linkedin.com/in/yelazrak/)
