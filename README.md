@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/yassineazrak?style=social)](https://twitter.com/yass_elazrak)
 
 [![GitHub yasssine elazrak](https://img.shields.io/github/followers/yassineazrak?label=follow&style=social)](https://github.com/yassine-elazrak)
-[![Linkedin: imthepk](https://img.shields.io/badge/-yassineazrak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alizaynoune/)](https://www.linkedin.com/in/yelazrak/)
+[![Linkedin: imthepk](https://img.shields.io/badge/-yassineazrak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yelazrak/)](https://www.linkedin.com/in/yelazrak/)
