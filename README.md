@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=yelazrak)](https://github.com/yassineazrak)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=alizaynoune&theme=dark)](https://github.com/yassineazrak)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=yelazrak)](https://github.com/yassine-elazrak)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=alizaynoune&theme=dark)](https://github.com/yassine-elazrak)
 
 
 ![Ali's github stats](https://github-readme-stats.vercel.app/api?username=yassineazrak&show_icons=true&theme=dark )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassineazrak&layout=compact&theme=dark)](https://github.com/yassineazrak)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassineazrak&layout=compact&theme=dark)](https://github.com/yassine-elazrak)
 
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/yassineazrak?style=social)](https://twitter.com/yass_elazrak)
 
-[![GitHub yasssine elazrak](https://img.shields.io/github/followers/yassineazrak?label=follow&style=social)](https://github.com/yassineazrak)
+[![GitHub yasssine elazrak](https://img.shields.io/github/followers/yassineazrak?label=follow&style=social)](https://github.com/yassine-elazrak)
 [![Linkedin: imthepk](https://img.shields.io/badge/-yassineazrak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alizaynoune/)](https://www.linkedin.com/in/yelazrak/)
