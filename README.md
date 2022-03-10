@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=alizaynoune&theme=dark)](https://github.com/yassine-elazrak)
 
 
-![Ali's github stats](https://github-readme-stats.vercel.app/api?username=yassineazrak&show_icons=true&theme=dark )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassineazrak&layout=compact&theme=dark)](https://github.com/yassine-elazrak)
+![Ali's github stats](https://github-readme-stats.vercel.app/api?username=yassine-elazrak&show_icons=true&theme=dark )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-elazrak&layout=compact&theme=dark)](https://github.com/yassine-elazrak)
 
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/yassineazrak?style=social)](https://twitter.com/yass_elazrak)
