@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋 I'm Yassine Elazrak
 
-- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
-- 🌱 I’m currently learning deep reinforcement learning
-- 📫 How to reach me: yelazrak@student.1337.ma
+- 👨🏽‍💻 Senior Python Developer with 4 years of experience in designing, developing, and deploying machine learning models. Proven track record in creating REST APIs and implementing machine learning models for recommendation systems. Proficient in Python, JavaScript, and TypeScript.
 
 
 
